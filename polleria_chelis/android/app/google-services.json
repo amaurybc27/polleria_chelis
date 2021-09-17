@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395304636396",
+    "project_id": "polleriachelis-b9a27",
+    "storage_bucket": "polleriachelis-b9a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395304636396:android:f41252a786d3732921fac9",
+        "android_client_info": {
+          "package_name": "mx.chelis.polleria_chelis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395304636396-fd0taguec6eovn3nj504qqgdikt7jd0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.chelis.polleria_chelis",
+            "certificate_hash": "3efacec55f8b5905f87dd3916c667911848022b2"
+          }
+        },
+        {
+          "client_id": "395304636396-q7vhup523m8b2iuhaqsumntbqbos56r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWVRodJo5ChliIn9NqtSqHHhvjknSdic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395304636396-q7vhup523m8b2iuhaqsumntbqbos56r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
